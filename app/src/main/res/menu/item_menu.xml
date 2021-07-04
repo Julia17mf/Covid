@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_kasus"
+        android:icon="@drawable/ic_kasus"
+        android:title="Kasus Covid"/>
+
+    <item
+        android:id="@+id/ic_rs"
+        android:icon="@drawable/ic_rs"
+        android:title="RS Rujukan Covid"/>
+</menu>
